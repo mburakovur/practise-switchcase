@@ -1,0 +1,3 @@
+##switchcase
+
+example
